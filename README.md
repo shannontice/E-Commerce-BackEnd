@@ -14,5 +14,8 @@ Link to deployed code: https://github.com/shannontice/E-Commerce-BackEnd
 
 ## Mock-Up
 https://drive.google.com/file/d/1IRi29nb3Bx-_lkJoR3CHL5TJ7t4_60V_/view?usp=drive_link
+https://drive.google.com/file/d/1wNz9Ps8G6XKNAxniFv5k1SwMw5ab-71T/view?usp=drive_link
+https://drive.google.com/file/d/1o-oBZoxSU9hvffMFD4eRWqUiUOlkZumc/view?usp=drive_link
+
 
 
